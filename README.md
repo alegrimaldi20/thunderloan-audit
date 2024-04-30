@@ -6,10 +6,6 @@ Assisting Auditors:
 
 - None
 
-Assisting Auditors:
-
-- None
-
 # Table of contents
 <details>
 
