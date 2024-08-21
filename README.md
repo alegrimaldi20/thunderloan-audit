@@ -258,7 +258,7 @@ File: src/protocol/ThunderLoan.sol
 ```
 
 ### [L-2] Initializers could be front-run
-Initializers could be front-run, allowing an attacker to either set their own values, take ownership of the contract, and in the best case forcing a re-deployment
+Initializers could be front-run, allowing an attacker to either set their own values, take ownership of the contract, and in the best case forcing a re-deployment.
 
 *Instances (6)*:
 ```solidity
