@@ -1,6 +1,6 @@
 # Thunder Loan Audit
 
-Prepared by: Luis Alejandro Grimaldi
+Prepared by: Luis Grimaldi
 
 Assisting Auditors:
 
